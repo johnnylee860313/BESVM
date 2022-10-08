@@ -1,0 +1,208 @@
+SVM
+
+reg
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.16421503075688687),x2 with error (0.2%*0.8357849692431131) : 0.9730649696610922
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.16421503075688687),x2 with error (0.2%*0.8357849692431131) : 0.9738049430220512
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9878404669260701
+
+permu
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.0),x2 with error (0.2%*1.0) : 0.9621978293043907
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.0),x2 with error (0.2%*1.0) : 0.9595561035758323
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9764105058365758
+
+
+
+
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.041666666666666664),x2 with error (0.2%*0.9583333333333334) : 0.9673778983719783
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.041666666666666664),x2 with error (0.2%*0.9583333333333334) : 0.9676942046855733
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9880836575875487
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.08333333333333333),x2 with error (0.2%*0.9166666666666666) : 0.9679329057720769
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.08333333333333333),x2 with error (0.2%*0.9166666666666666) : 0.9686806411837238
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9883268482490273
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.125),x2 with error (0.2%*0.875) : 0.9670078934385792
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.125),x2 with error (0.2%*0.875) : 0.9681874229346485
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9883268482490273
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.16666666666666666),x2 with error (0.2%*0.8333333333333334) : 0.964602861371485
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.16666666666666666),x2 with error (0.2%*0.8333333333333334) : 0.9642416769420469
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9785992217898832
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.20833333333333334),x2 with error (0.2%*0.7916666666666666) : 0.9702762703502713
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.20833333333333334),x2 with error (0.2%*0.7916666666666666) : 0.9704069050554871
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9851653696498055
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.25),x2 with error (0.2%*0.75) : 0.9698445979279724
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.25),x2 with error (0.2%*0.75) : 0.9696670776818742
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9873540856031129
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.2916666666666667),x2 with error (0.2%*0.7083333333333334) : 0.9707696102614701
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.2916666666666667),x2 with error (0.2%*0.7083333333333334) : 0.9704069050554871
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9858949416342413
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.3333333333333333),x2 with error (0.2%*0.6666666666666666) : 0.9697212629501727
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.3333333333333333),x2 with error (0.2%*0.6666666666666666) : 0.9706535141800247
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9885700389105059
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.375),x2 with error (0.2%*0.625) : 0.9683645781943759
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.375),x2 with error (0.2%*0.625) : 0.969173859432799
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9880836575875487
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.4166666666666667),x2 with error (0.2%*0.5833333333333334) : 0.9684262456832757
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.4166666666666667),x2 with error (0.2%*0.5833333333333334) : 0.9696670776818742
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9880836575875487
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.4583333333333333),x2 with error (0.2%*0.5416666666666666) : 0.9667612234829798
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.4583333333333333),x2 with error (0.2%*0.5416666666666666) : 0.9672009864364981
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9880836575875487
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.5),x2 with error (0.2%*0.5) : 0.9718796250616675
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.5),x2 with error (0.2%*0.5) : 0.9718865598027127
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9871108949416343
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.5416666666666666),x2 with error (0.2%*0.4583333333333333) : 0.9649111988159842
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.5416666666666666),x2 with error (0.2%*0.4583333333333333) : 0.9657213316892725
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9873540856031129
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.5833333333333334),x2 with error (0.2%*0.4166666666666667) : 0.969166255550074
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.5833333333333334),x2 with error (0.2%*0.4166666666666667) : 0.9704069050554871
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9880836575875487
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.625),x2 with error (0.2%*0.375) : 0.9655895411938826
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.625),x2 with error (0.2%*0.375) : 0.9649815043156597
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9807879377431906
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.6666666666666666),x2 with error (0.2%*0.3333333333333333) : 0.9689195855944746
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.6666666666666666),x2 with error (0.2%*0.3333333333333333) : 0.9704069050554871
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9880836575875487
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.7083333333333334),x2 with error (0.2%*0.2916666666666667) : 0.9671928959052787
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.7083333333333334),x2 with error (0.2%*0.2916666666666667) : 0.9681874229346485
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9875972762645915
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.75),x2 with error (0.2%*0.25) : 0.9689812530833745
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.75),x2 with error (0.2%*0.25) : 0.9699136868064119
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9880836575875487
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.7916666666666666),x2 with error (0.2%*0.20833333333333334) : 0.9660828811050814
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.7916666666666666),x2 with error (0.2%*0.20833333333333334) : 0.9654747225647349
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9824902723735408
+
+BESVM Accuracy (on training) = with x1 bounded error (0.2%*0.8333333333333334),x2 with error (0.2%*0.16666666666666666) : 0.969597927972373
+BESVM Accuracy (on testing) = with x1 bounded error (0.2%*0.8333333333333334),x2 with error (0.2%*0.16666666666666666) : 0.9704069050554871
+BESVM Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9880836575875487
+
+
+
+#KNN
+
+reg
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.08241831878934744),x2 with error (0.2%*0.9175816812106525) : 0.9794657392333876
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.08241831878934744),x2 with error (0.2%*0.9175816812106525) : 0.9748409057273938
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9883268482490273
+
+permu
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.16421503075688687),x2 with error (0.2%*0.8357849692431131) : 0.977652804499038
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.16421503075688687),x2 with error (0.2%*0.8357849692431131) : 0.9749889003995856
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9883268482490273
+
+dtree
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.03863890967855284),x2 with error (0.2%*0.9613610903214472) : 0.9825736273494154
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.03863890967855284),x2 with error (0.2%*0.9613610903214472) : 0.9751368950717774
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9895428015564203
+
+
+
+
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.0),x2 with error (0.2%*1.0) : 0.9759496793290577
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.0),x2 with error (0.2%*1.0) : 0.9721331689272503
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9892996108949417
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.041666666666666664),x2 with error (0.2%*0.9583333333333334) : 0.9760113468179575
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.041666666666666664),x2 with error (0.2%*0.9583333333333334) : 0.9711467324290999
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9883268482490273
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.08333333333333333),x2 with error (0.2%*0.9166666666666666) : 0.9760730143068574
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.08333333333333333),x2 with error (0.2%*0.9166666666666666) : 0.9711467324290999
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9892996108949417
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.125),x2 with error (0.2%*0.875) : 0.9760113468179575
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.125),x2 with error (0.2%*0.875) : 0.9711467324290999
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9890564202334631
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.16666666666666666),x2 with error (0.2%*0.8333333333333334) : 0.9759496793290577
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.16666666666666666),x2 with error (0.2%*0.8333333333333334) : 0.9713933415536374
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9885700389105059
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.20833333333333334),x2 with error (0.2%*0.7916666666666666) : 0.9761346817957572
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.20833333333333334),x2 with error (0.2%*0.7916666666666666) : 0.9723797780517879
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9888132295719845
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.25),x2 with error (0.2%*0.75) : 0.9768130241736557
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.25),x2 with error (0.2%*0.75) : 0.9711467324290999
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9885700389105059
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.2916666666666667),x2 with error (0.2%*0.7083333333333334) : 0.9768130241736557
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.2916666666666667),x2 with error (0.2%*0.7083333333333334) : 0.9718865598027127
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9890564202334631
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.3333333333333333),x2 with error (0.2%*0.6666666666666666) : 0.9768746916625555
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.3333333333333333),x2 with error (0.2%*0.6666666666666666) : 0.9721331689272503
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9890564202334631
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.375),x2 with error (0.2%*0.625) : 0.9768130241736557
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.375),x2 with error (0.2%*0.625) : 0.9723797780517879
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9888132295719845
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.4166666666666667),x2 with error (0.2%*0.5833333333333334) : 0.976689689195856
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.4166666666666667),x2 with error (0.2%*0.5833333333333334) : 0.9718865598027127
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9897859922178989
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.4583333333333333),x2 with error (0.2%*0.5416666666666666) : 0.9768746916625555
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.4583333333333333),x2 with error (0.2%*0.5416666666666666) : 0.9716399506781751
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9892996108949417
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.5),x2 with error (0.2%*0.5) : 0.976689689195856
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.5),x2 with error (0.2%*0.5) : 0.9709001233045623
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9883268482490273
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.5416666666666666),x2 with error (0.2%*0.4583333333333333) : 0.9768746916625555
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.5416666666666666),x2 with error (0.2%*0.4583333333333333) : 0.9726263871763255
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9888132295719845
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.5833333333333334),x2 with error (0.2%*0.4166666666666667) : 0.9774296990626542
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.5833333333333334),x2 with error (0.2%*0.4166666666666667) : 0.9728729963008631
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9892996108949417
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.625),x2 with error (0.2%*0.375) : 0.9767513566847558
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.625),x2 with error (0.2%*0.375) : 0.9721331689272503
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9895428015564203
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.6666666666666666),x2 with error (0.2%*0.3333333333333333) : 0.977923038973853
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.6666666666666666),x2 with error (0.2%*0.3333333333333333) : 0.9721331689272503
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9890564202334631
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.7083333333333334),x2 with error (0.2%*0.2916666666666667) : 0.9776147015293537
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.7083333333333334),x2 with error (0.2%*0.2916666666666667) : 0.9723797780517879
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9895428015564203
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.75),x2 with error (0.2%*0.25) : 0.9773063640848545
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.75),x2 with error (0.2%*0.25) : 0.9726263871763255
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9885700389105059
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.7916666666666666),x2 with error (0.2%*0.20833333333333334) : 0.9779847064627528
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.7916666666666666),x2 with error (0.2%*0.20833333333333334) : 0.9738594327990135
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9888132295719845
+
+BEKNN Accuracy (on training) = with x1 bounded error (0.2%*0.8333333333333334),x2 with error (0.2%*0.16666666666666666) : 0.9786630488406513
+BEKNN Accuracy (on testing) = with x1 bounded error (0.2%*0.8333333333333334),x2 with error (0.2%*0.16666666666666666) : 0.9738594327990135
+BEKNN Accuracy (on subset_raw) = with no bounded error,x2 with no error 0.9895428015564203
+
+
+
+
+
+
+
