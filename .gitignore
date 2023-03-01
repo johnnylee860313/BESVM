@@ -3,12 +3,16 @@ env/
 __pycache__/
 .idea/
 .gitignore
+.venv
 
 # Data folders
 data/
 images/
 venv/
 Research_劉皇慶_2022/
+experimentpng/
+BE_Cloud_draft/
+BEHC_BERLE
 
 
 # Mutable objects
